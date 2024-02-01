@@ -37,8 +37,8 @@ The final model is deployed using Streamlit, creating an interactive web applica
 For any queries or further information, please reach out to:
 
 **Shradhanjali Pradhan**  
-Email: [your-email@example.com](edu.shradhanjali@gmail.com)  
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/shradhanjalipradhan/)
+Email: [email](edu.shradhanjali@gmail.com)  
+LinkedIn: [linkedin](https://www.linkedin.com/in/shradhanjalipradhan/)
 
 ## Acknowledgments
 - Kaggle for providing the Airbnb New User Bookings dataset.
